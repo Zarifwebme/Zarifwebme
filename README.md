@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif" alt="wave" width="50"/>
 </p>
 
-<h3 align="center">💻 Passionate Coder | 🌐 Web Developer | 🛠️ Tech Enthusiast</h3>
+<h3 align="center">💻 Great Coder | 🌐 Web Developer | 🛠️ Tech Enthusiast</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Tech%20Stack-Flask%20%7C%20Python%20%7C%20Bootstrap%20%7C%20JavaScript%20-%23ff5722?style=for-the-badge" alt="Tech Stack"/>
