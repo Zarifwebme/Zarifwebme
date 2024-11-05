@@ -1,65 +1,64 @@
-<h1 align="center">Hey there, I'm Zarif! 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<p align="center">
-    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif" alt="wave" width="50"/>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zarif+Baxtiyorov!;" />
+</h1>
 
-<h3 align="center">💻 Great Coder | 🌐 Web Developer | 🛠️ Tech Enthusiast</h3>
+<h3 align="center">A passionate software developer from Uzbekiston uz</h3>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Tech%20Stack-Flask%20%7C%20Python%20%7C%20Bootstrap%20%7C%20JavaScript%20-%23ff5722?style=for-the-badge" alt="Tech Stack"/>
-</p>
-
----
+<br/>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Code GIF" width="300"/>
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
----
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,java,flask" /><br>
+</div>
 
-### 👨‍💻 About Me
-
-- 🚀 Currently working on an awesome **Marketplace Project** with **Flask** and **PythonAnywhere** for deployment.
-- 🌱 Constantly learning new technologies to expand my knowledge in **web development** and **backend design**.
-- 🛠 Building unique and clean projects with **Bootstrap**, **JavaScript**, and a touch of creativity!
-- 🎯 Fun Fact: I love combining **design** and **development** for that extra polish! ✨
-
-### 🛠 My Toolbox
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+<br/>
+<hr/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zarifwebme&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
----
+<hr/>
 
-### 🔗 Connect with Me
-
-<p align="center">
-    <a href="https://linkedin.com/in/zarifwebme" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:zarifwebme@example.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-</p>
-
----
-
-<div align="center">
-    <h3>Happy Coding!</h3>
-    <p><img src="https://media.giphy.com/media/3oEdv3UlXwd52AqgUE/giphy.gif" alt="smiley" width="30"/> 
-       <img src="https://media.giphy.com/media/l3q2Ip4BGnvT78I1S/giphy.gif" alt="smiley" width="30"/> 
-       <img src="https://media.giphy.com/media/3oEdv3UlXwd52AqgUE/giphy.gif" alt="smiley" width="30"/> 
-    </p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<br/><br/>
