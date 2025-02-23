@@ -1,54 +1,60 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zarifjon-baxtiyorov" alt="visitors" />
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zarif+Baxtiyorov!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zarif+Baxtiyorov!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Uzbekiston uz</h3>
+<h3 align="center">🚀 Passionate Software Developer from Uzbekistan 🇺🇿</h3>
 
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Flask, Firebase, Docker**
+### 🔥 About Me
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+- 🔭 I’m currently working on **a marketplace**
+- 🌱 I’m currently learning **Flask, Firebase, Docker**
+- ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs!**
 
- </div>
- 
+---
+
+### 📫 Connect with me:
 <div align="center"> 
-  <a href="mailto:pedro.sales.baxtiyorovzarif@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:baxtiyorovzarif@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/zarifjon-baxtiyorov-b789a3267" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/zarifjon-baxtiyorov-b789a3267" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,java,flask" /><br>
-</div>
+---
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,flask,firebase,java" />
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,git,github,vscode,figma" />
+</p>
 
+---
 
-<br/><br/>
+<h2 align="center">🐍 My GitHub Contributions 🐍</h2>
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h2 align="center">💡 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zarifjon-baxtiyorov&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarifjon-baxtiyorov&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarifjon-baxtiyorov&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
