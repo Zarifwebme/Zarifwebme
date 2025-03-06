@@ -51,10 +51,10 @@
 
 <h2 align="center">💡 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarifjon-baxtiyorov&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zarifwebme&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarifjon-baxtiyorov&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zarifwebme&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarifjon-baxtiyorov&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarifwebme&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
