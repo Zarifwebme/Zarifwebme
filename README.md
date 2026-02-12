@@ -8,15 +8,6 @@
 
 <h3 align="center">🚀 Software developer in Uzbekistan</h3>
 
----
-
-### 🔥 About Me
-
-- 🔭 I’m currently working on **a marketplace**
-- 🌱 I’m currently learning **Flask, Firebase, Docker**
-- ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs!**
-
----
 
 ### 📫 Connect with me:
 <div align="center"> 
@@ -40,14 +31,6 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,git,github,vscode,figma" />
 </p>
 
----
-
-<h2 align="center">🐍 My GitHub Contributions 🐍</h2>
-<p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <h2 align="center">💡 GitHub Stats</h2>
 <p align="center">
