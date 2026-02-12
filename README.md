@@ -9,7 +9,6 @@
 <h3 align="center">🚀 Software developer in Uzbekistan</h3>
 
 
-### 📫 Connect with me:
 <div align="center"> 
   <a href="mailto:baxtiyorovzarif@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -17,7 +16,7 @@
   <a href="https://www.linkedin.com/in/zarifjon-baxtiyorov-b789a3267" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://zarifjon.pythonanywhere.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -29,15 +28,5 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,flask,firebase,java" />
   <br>
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,git,github,vscode,figma" />
-</p>
-
-
-<h2 align="center">💡 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zarifwebme&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zarif&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarifwebme&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
