@@ -25,7 +25,7 @@
 
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,flask,java,docker" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,flask,java,docker,django" />
   <br>
   <img src="https://skillicons.dev/icons?i=firebase,mysql" />
   <br>
