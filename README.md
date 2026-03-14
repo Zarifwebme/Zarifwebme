@@ -2,24 +2,42 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zarifjon-baxtiyorov" alt="visitors" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zarif+Baxtiyorov!;" />
-</h1>
+# Hi there 👋
 
-<h3 align="center">🚀 Software developer in Uzbekistan</h3>
+```python
+class ZarifjonBaxtiyorov:
+    def __init__(self):
+        self.name = "Zarifjon Baxtiyorov"
+        self.role = "Junior Backend Developer"
+        self.alias = "Zarifwebme"
+        self.language = ["Python", "SQL", "JavaScript"]
+        self.frameworks = ["Django", "FastAPI", "Bootstrap"]
+        self.database = ["SQLite", "MySQL", "PostgreSQL"]
+        self.current_focus = [
+            "backend development",
+            "telegram bots",
+            "REST APIs",
+            "deployment",
+            "clean architecture"
+        ]
+        self.learning = [
+            "advanced Django",
+            "DevOps basics",
+            "Docker",
+            "system design"
+        ]
+        self.projects = [
+            "Real Estate Telegram Bot",
+            "Personal Portfolio Website",
+            "Blog Platform",
+            "Eco Route Planner"
+        ]
 
+    def say_hi(self):
+        return "Thanks for visiting my GitHub profile!"
 
-<div align="center"> 
-  <a href="mailto:baxtiyorovzarif@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/zarifjon-baxtiyorov-b789a3267" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://zarifjon.pythonanywhere.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+me = ZarifjonBaxtiyorov()
+print(me.say_hi())
 
 ---
 
