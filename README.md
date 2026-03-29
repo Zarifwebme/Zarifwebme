@@ -1,35 +1,34 @@
 # Hi there 👋
 
 ```python
-class ZarifjonBaxtiyorov:
-    def __init__(self):
-        self.name = "Zarifjon Baxtiyorov"
-        self.role = "Junior Backend Developer"
-        self.alias = "Zarifwebme"
-        self.language = ["Python", "JavaScript"]
-        self.frameworks = ["Django", "DRF", "Bootstrap"]
-        self.database = ["MySQL", "PostgreSQL"]
-        self.current_focus = [
-            "backend development",
-            "REST APIs",
-            "clean architecture"
-        ]
-        self.learning = [
-            "advanced Django",
-            "DevOps basics",
-            "Docker",
-        ]
-        self.projects = [
-            "Real Estate Telegram Bot",
-            "Blog Platform",
-            "Eco Route Planner"
-        ]
+print("Name: Zarifjon Baxtiyorov")
+print("Role: Junior Backend Developer")
+print("Alias: Zarifwebme")
 
-    def say_hi(self):
-        return "Thanks for visiting my GitHub profile!"
+print("\nTech stack:")
+print("- Python")
+print("- JavaScript")
+print("- Django / DRF")
+print("- Bootstrap")
+print("- MySQL / PostgreSQL")
 
-me = ZarifjonBaxtiyorov()
-print(me.say_hi())
+print("\nCurrent focus:")
+print("- Backend development")
+print("- REST APIs")
+print("- Clean architecture")
+
+print("\nLearning:")
+print("- Advanced Django")
+print("- DevOps basics")
+print("- Docker")
+
+print("\nProjects:")
+print("- Real Estate Telegram Bot")
+print("- Blog Platform")
+print("- Eco Route Planner")
+
+print("\nStatus: Always debugging 😅")
+print(">>> Thanks for visiting my GitHub profile!")
 ```
 ### ⚡ Tech Stack
 
