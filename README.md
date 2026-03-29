@@ -2,14 +2,13 @@
 
 ```python
 print("Name: Zarifjon Baxtiyorov")
-print("Role: Junior Backend Developer")
-print("Alias: Zarifwebme")
+print("Role: Backend Developer")
 
 print("\nTech stack:")
 print("- Python")
-print("- JavaScript")
 print("- Django / DRF")
 print("- Bootstrap")
+print("- JavaScript")
 print("- MySQL / PostgreSQL")
 
 print("\nCurrent focus:")
@@ -23,7 +22,7 @@ print("- DevOps basics")
 print("- Docker")
 
 print("\nProjects:")
-print("- Real Estate Telegram Bot")
+print("- Real Estate (Realter)")
 print("- Blog Platform")
 print("- Eco Route Planner")
 ```
