@@ -26,9 +26,6 @@ print("\nProjects:")
 print("- Real Estate Telegram Bot")
 print("- Blog Platform")
 print("- Eco Route Planner")
-
-print("\nStatus: Always debugging 😅")
-print(">>> Thanks for visiting my GitHub profile!")
 ```
 ### ⚡ Tech Stack
 
