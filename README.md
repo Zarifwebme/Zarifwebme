@@ -30,8 +30,7 @@ print("- Eco Route Planner")
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![RestAPI](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=00FFAA)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![All API Connections](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=00FFAA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
