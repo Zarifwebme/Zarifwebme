@@ -7,7 +7,6 @@ print("Role: Backend Developer")
 print("\nTech stack:")
 print("- Python")
 print("- Django / DRF")
-print("- Bootstrap")
 print("- JavaScript")
 print("- MySQL / PostgreSQL")
 
