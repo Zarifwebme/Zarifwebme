@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ```python
 print("Name: Zarifjon Baxtiyorov")
 print("Role: Backend Developer")
