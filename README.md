@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="https://zarifjon.pythonanywhere.com/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=web&logoColor=white"/></a>
+  <a href="https://zarifjon.pythonanywhere.com/"><img src="https://img.shields.io/website-green-red/http/monip.org.svg?style=for-the-badge&logo=web&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/zarifjon-baxtiyorov-b789a3267/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 ```python
 print("Name: Zarifjon Baxtiyorov")
 print("Role: Backend Developer")
