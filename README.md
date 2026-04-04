@@ -1,6 +1,13 @@
 <p align="center">
-  <a href="https://zarifjon.pythonanywhere.com/"><img src="https://img.shields.io/website/http/monip.org.svg?style=for-the-badge&logo=web&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zarifjon-baxtiyorov-b789a3267/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- Website badge -->
+  <a href="https://zarifjon.pythonanywhere.com/">
+    <img src="https://img.shields.io/badge/Website-Zarifjon-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+
+  <!-- LinkedIn badge -->
+  <a href="https://www.linkedin.com/in/zarifjon-baxtiyorov-b789a3267/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zarifjon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ```python
