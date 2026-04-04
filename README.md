@@ -1,12 +1,12 @@
 <p align="center">
   <!-- Website badge -->
   <a href="https://zarifjon.pythonanywhere.com/">
-    <img src="https://img.shields.io/badge/Website-Zarifjon-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 
   <!-- LinkedIn badge -->
   <a href="https://www.linkedin.com/in/zarifjon-baxtiyorov-b789a3267/">
-    <img src="https://img.shields.io/badge/LinkedIn-Zarifjon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
